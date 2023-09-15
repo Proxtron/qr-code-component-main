@@ -25,23 +25,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://proxtron.github.io/qr-code-component-main/]
 
 ## My process
+
+Started out with setting the background of the page
+Created and styled the biggest white box
+Put the qr code in the image and aligned it towards the top of the white box
+Put in the heading text and then the description text
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- SASS
+- Google Outfit Font
+- VSCode editor
 
 ### What I learned
 
